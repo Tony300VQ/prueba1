@@ -1,0 +1,38 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    font-family: verdana;
+}
+body{
+    background-image: url(https://i.pinimg.com/564x/f0/93/12/f09312cb310e2c31aa2f399a841aba96.jpg);
+}
+h1{
+    font-family: Showcard Gothic;
+}
+h2{
+    font-family:Algerian;
+    color: white;
+}
+h3{
+    color: rgb(255, 0, 0);
+}
+img{
+    width: 45%;
+    height: 45%;
+}
+header
+{
+    background-color: rgb(0, 230, 255);
+}
+nav
+{
+    background-color: beige;
+}
+section
+{
+    background-color: rgba(0, 166, 255, 0.767);
+}
+footer
+{
+    background-color: aquamarine;
+}
